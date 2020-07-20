@@ -1,0 +1,6 @@
+title : Lee Chungpa
+remote_theme: pmarsceill/just-the-docs
+
+# 다크모드, 검색 불가능
+search_enabled: false
+color_scheme: dark
