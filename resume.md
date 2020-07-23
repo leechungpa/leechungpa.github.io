@@ -1,14 +1,10 @@
 --- 
-title : "Resume"
+title : Resume
 has_children: false
 nav_order: 2
 ---  
 
-<center>
-
 # Portfolio
-
-</center>
 
 ## 💻 About me
 
