@@ -12,20 +12,20 @@
 
 <details>
     <summary><a style="text-decoration:none">Just for Study</a></summary>
-    <p>
+    <p></p>
 
 <A href="https://github.com/leechungpa/Python-study"> Python </A>
-  <P>
+    <p></p>
 
 <A href="https://github.com/leechungpa/Python-study/tree/master/pandas"> Pandas </A>
-  <P>
+    <p></p>
 
 
 <A href="https://github.com/leechungpa/yonsei"> R (private) </A>
-  <P>
+    <p></p>
 
 <A href="https://github.com/leechungpa/cs50"> C (cs50) </A>
-  <P>
+    <p></p>
 
 </details>
 <br>
