@@ -8,28 +8,18 @@
 
 1. Blog for Books : [https://leechungpa.blog.me/](https://leechungpa.blog.me/)
 
-1. ETC
+1. ETC : Just for Study
 
-<details>
-    <summary><a style="text-decoration:none">Just for Study</a></summary>
-    <p></p>
+- [Python](https://github.com/leechungpa/Python-study)
 
-<A href="https://github.com/leechungpa/Python-study"> Python </A>
-    <p></p>
-
-<A href="https://github.com/leechungpa/Python-study/tree/master/pandas"> Pandas </A>
-    <p></p>
+- [Pandas](https://github.com/leechungpa/Python-study/tree/master/pandas)
+    
+- [R (private)](https://github.com/leechungpa/yonsei)
+    
+- [C (cs50)](https://github.com/leechungpa/cs50")
 
 
-<A href="https://github.com/leechungpa/yonsei"> R (private) </A>
-    <p></p>
-
-<A href="https://github.com/leechungpa/cs50"> C (cs50) </A>
-    <p></p>
-
-</details>
 <br>
-
 
 
 
@@ -46,3 +36,5 @@ For more information, click resume.
 
 
 [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode) (not for ETC and some Docs)
+
+If you have any copyright problem, just let me know.
