@@ -1,9 +1,3 @@
---- 
-title : Main
-nav_order: 1
----  
-
-
 # Webpage
 
 1. Documentary for Statistics and Data Science : [https://leechungpa.github.io/Statistics/](https://leechungpa.github.io/Statistics/)
