@@ -1,34 +1,33 @@
 --- 
 title : Resume
 has_children: false
-nav_order: 2
+nav_order: 1
 ---  
 
-# Portfolio
 
-## 💻 About me
+# 💻 About me
 
 - 이청파 Lee Chungpa
 - E-mail : leechungpa@gmail.com
-- 익숙한 기술 : R(tidyverse), Python, Git
-- 공부중인 기술 : SQL, POSIX, Python 패키지들
+- Advanced skills : R(tidyverse), Python, Git
+- developing Skills : SQL, POSIX, C
  
-### 학업 
+### Education 
  
 - 인천산곡고등학교 졸업
     - 이공계열 : 수능 물리1 생명과학2 응시
 - 연세대학교 응용통계학과 4학년 재학중
 
-### 경력
+### Career
 
 - 연세대학교 학보사 연세춘추 116기 사진부 기자 (2015.09 ~ 2016.12)
 - 육군 25사단 4.2인치 박격포 관측병 (2017.02 ~ 2018.11)
 - 연세대학교 국제캠퍼스 윤동주 하우스 RA (2019.03 ~ 2019.12)
-- 연세대학교 디지털조교 (2020.03 ~ 2020.06)
+- 연세대학교 디지털조교 (2020.03 ~ 2020.07)
+- 연세대학교 데이터사이언스랩 (2020.07 ~ )
 
 
-
-## 📝 Study and Project
+# 📝 Project
 
 
 ### _주간 음원차트 예측_
@@ -50,7 +49,7 @@ Have you ever seen a news article concerning the number of people at political r
 By using elementary Neural Network wich is 9 by 3 by 1 Cummulative Nerual Network, predict interest rate. We made artificial data set from Put-Call Parity formula comes from paper 'option pricing : a simplified approach (1979) John C.COX Stephen A.ROSS Mark RUBINSETIN'.
 
 
-## 📚 Courses
+# 📚 Courses
 
 ### 대학 수강 목록
 
@@ -109,3 +108,15 @@ By using elementary Neural Network wich is 9 by 3 by 1 Cummulative Nerual Networ
   - 딥러닝
 
   - 데이터마이닝
+  
+### 기타 수강 목록
+
+(추후 수정 예정)
+
+- 2020 데이터 청년 캠퍼스 - 
+
+- Coursera
+
+- [Datacamp](https://www.datacamp.com/profile/leechungpa)
+
+- edwith
