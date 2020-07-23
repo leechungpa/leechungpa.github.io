@@ -51,4 +51,4 @@ For more information, click resume.
 <br>
 
 
-[CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode) (not for ETC)
+[CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode) (not for ETC and some Docs)
