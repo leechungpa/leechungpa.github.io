@@ -31,20 +31,20 @@ nav_order: 1
 
 
 ### _주간 음원차트 예측_
-`Python`, `R`, `Machine Learning` [Github Link](https://github.com/YooGunWook/1nurse4stat)
+`Python`, `R`, `Machine Learning` [Github Link](https://github.com/leechungpa/predict-song-rank)
 
 2019년 발표된 문화체육관광부의 자료에 따르면 음악 산업 시장은 2016년부터 2018년까지 꾸준하게 매출액이 증가하고 있다. 성장하는 음원시장의 대표적인 지표로 음원 순위를 말할 수 있는데 18년도 음원 데이터 및 소셜데이터를 활용하여 주간음원순위를 예측하고자 한다. Catboost XGboost Random forest 등을 사용하며 모델링을 하였고 shiny를 통해 시각화 하였다.
 
 
 ### _Application of MCNN for estimating crowd size_
 
-`Python`, `Machine Learning` [Github Link](https://github.com/Seungmi122/2019FS_DL)
+`Python`, `Machine Learning` [Github Link](https://github.com/leechungpa/crowd-counting)
 
 Have you ever seen a news article concerning the number of people at political rallies? It has gone through a lot of controversy lately because the organizers and the opposite parties differed on the estimate of the crowd number. We can easily handle these problems by giving an objective estimate with a crowd counting machine. The domain of crowd counting can also be extended to other areas such as counting cells or bacteria from a microscopic image, counting animals in wildlife, or estimating the number of vehicles at transportation hubs.
 
 ### _By using Neural Network, predict interest rate from Put-Call Parity_
 
-`Python`, `Machine Learning` [Github Link](https://github.com/leechungpa/FinancialEngineering-intro)
+`Python`, `Machine Learning` [Github Link](https://github.com/leechungpa/financial-engineering-intro)
 
 By using elementary Neural Network wich is 9 by 3 by 1 Cummulative Nerual Network, predict interest rate. We made artificial data set from Put-Call Parity formula comes from paper 'option pricing : a simplified approach (1979) John C.COX Stephen A.ROSS Mark RUBINSETIN'.
 
@@ -55,68 +55,34 @@ By using elementary Neural Network wich is 9 by 3 by 1 Cummulative Nerual Networ
 
 - 수학
 
-  - 미적분학
-
-  - 선형대수
+미적분학, 선형대수
 
 - 통계학
 
-  - 통계학입문
+통계학입문, 통계방법론, 회귀분석, 수리통계학(1), 수리통계학(2), 이론통계학
 
-  - 통계방법론
+범주형자료분석, 시계열분석, 데이터사이언스를위한확률과정, 금융리스크관리실무와통계학
 
-  - 회귀분석
+UT세미나 (생물통계학), 시사통계학
 
-  - 범주형자료분석
-
-  - 시계열분석
-
-  - 금융리스크관리실무와통계학
-
-  - 수리통계학(1)
-
-  - 수리통계학(2)
-
-  - 이론통계학
-
-  - 데이터사이언스를위한확률과정
-
-  - UT세미나 (생물통계학)
-
-  - 시사통계학
+데이터사이언스입문, 딥러닝, 데이터마이닝
 
 - 경제학
 
-  - 미시경제원론
-
-  - 거시경제원론
-
-  - 미시경제학
-
-  - 거시경제학
-
-  - 금융공학의 이해
+미시경제원론, 거시경제원론, 미시경제학, 거시경제학, 금융공학의 이해
 
 - 컴퓨터과학
 
-  - 컴퓨터입문
-
-  - 컴퓨터자료처리
-
-  - 데이터사이언스입문
-
-  - 딥러닝
-
-  - 데이터마이닝
+컴퓨터입문, 컴퓨터자료처리
   
 ### 기타 수강 목록
 
-(추후 수정 예정)
-
-- 2020 데이터 청년 캠퍼스 - 
+- 2020 데이터 청년 캠퍼스 - 연세대학교
 
 - Coursera
 
 - [Datacamp](https://www.datacamp.com/profile/leechungpa)
 
 - edwith
+
+- 생활코딩
