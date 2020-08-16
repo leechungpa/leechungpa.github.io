@@ -6,9 +6,9 @@
 
 1. Documentary 
 
-    1. Statistics and Data Science : [https://leechungpa.github.io/Statistics/](https://leechungpa.github.io/Statistics/)
+    1. Statistics and Data Science : [https://leechungpa.github.io/statistics/](https://leechungpa.github.io/Statistics/)
     
-    1. Machine Learning : [https://leechungpa.github.io/machine_learning/](https://leechungpa.github.io/machine_learning/)
+    1. Machine Learning : [https://leechungpa.github.io/machine-learning/](https://leechungpa.github.io/machine_learning/)
     
     1. Convex Optimization : [https://leechungpa.github.io/convex-optimization/](https://leechungpa.github.io/convex-optimization/)
 
