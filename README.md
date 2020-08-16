@@ -14,7 +14,7 @@
 
 1. ETC : Just for Study
 
-    1. [Python](https://github.com/leechungpa/Python-study)
+    1. [Python](https://github.com/leechungpa/python-study)
     
     1. [R (private)](https://github.com/leechungpa/yonsei)
     
