@@ -10,8 +10,6 @@
     
     1. Machine Learning : [https://leechungpa.github.io/machine-learning/](https://leechungpa.github.io/machine-learning/)
     
-    1. Convex Optimization : [https://leechungpa.github.io/convex-optimization/](https://leechungpa.github.io/convex-optimization/)
-
 1. ETC : Just for Study
 
     1. [Python](https://github.com/leechungpa/python-study)
