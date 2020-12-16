@@ -49,10 +49,7 @@ nav_order: 1
 
 `R`, `Econometrics` [Github Link](https://github.com/leechungpa/econometrics-regression)
 
-계량경제학 표준가정에 따른 대한민구의 초미세 먼지 원인 분석. 코로나 확진자 수 및 주가지표 등 시계열 데이터를 바탕으로. 자세한 도출 과정은 [Rmd](https://github.com/leechungpa/econometrics-regression/tree/main/docs)를 통해 확인 가능.
-
-
-https://github.com/leechungpa/econometrics-regression
+계량경제학 표준가정에 따른 대한민구의 초미세 먼지 원인 분석. 코로나 확진자 수 및 주가지표 등 시계열 데이터를 바탕으로. 자세한 도출 과정은 [Rmd](https://leechungpa.github.io/econometrics-regression/model)를 통해 확인 가능.
 
 
 
