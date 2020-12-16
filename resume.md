@@ -31,17 +31,21 @@ nav_order: 1
 - 연세대학교 데이터사이언스랩 (2020.07 ~ )
 
 
+<br>
+<br>
+<br>
+
 # 📝 Project for Study
 
 
-### 뉴노멀 시대의 지역화폐 제안 : 지역별 업종 맞춤형 지역화폐
+### _뉴노멀 시대의 지역화폐 제안 : 지역별 업종 맞춤형 지역화폐_
 
 `Python`, `R`, `Machine Learning` [Github Link](https://github.com/leechungpa/mcube)
 
 경기지역화폐의 효과성을 지역별, 업종별로 분석해, 뉴노멀 시대의 맞춤형 지역화폐정책을 제안.
 
 
-### 초미세먼지 원인 분석
+### _초미세먼지 원인 분석_
 
 `R`, `Econometrics` [Github Link](https://github.com/leechungpa/econometrics-regression)
 
@@ -52,7 +56,7 @@ https://github.com/leechungpa/econometrics-regression
 
 
 
-### 뉴스 빅데이터를 통한 부동산 흐름 읽기
+### _뉴스 빅데이터를 통한 부동산 흐름 읽기_
 
 `Python`, `R`, `Machine Learning` [Github Link](https://github.com/leechungpa/dsl-project)
 
@@ -78,14 +82,14 @@ Have you ever seen a news article concerning the number of people at political r
 By using elementary Neural Network wich is 9 by 3 by 1 Cummulative Nerual Network, predict interest rate. We made artificial data set from Put-Call Parity formula comes from paper 'option pricing : a simplified approach (1979) John C.COX Stephen A.ROSS Mark RUBINSETIN'.
 
 
-### Theory of Optimization
+### _Theory of Optimization_
 
 `Python`, `EDA` [Github Link](https://github.com/leechungpa/optimization)
 
 Study of Optimization Theory with respect to Convex Optimization. There are [codes](https://github.com/leechungpa/optimization/blob/main/Newton%20Method.ipynb) for regression by Newton Method. But I prefer [theroy](https://leechungpa.github.io/optimization/convex%20optimization).
 
 
-### EDA of US Car Accidents
+### _EDA of US Car Accidents_
 
 `Python`, `EDA` [Github Link](https://github.com/leechungpa/uc-eda)
 
@@ -97,6 +101,10 @@ https://github.com/leechungpa/seoul-disability
 https://github.com/leechungpa/trading
 -->
 
+
+
+
+<br>
 
 
 # 📚 Courses
