@@ -6,7 +6,7 @@ nav_order: 1
 
 
 # 💻 About me
-
+![](https://avatars0.githubusercontent.com/u/57704527?s=400&u=d22f022e58743ae523b68d3cd3423278f4c5b317&v=4)
 - 이청파 Lee Chungpa
 - E-mail : leechungpa@gmail.com
 - Advanced skills : R(tidyverse), Python, Git
