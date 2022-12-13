@@ -1,24 +1,22 @@
 # Webpage
-
-1. Blog for Data Science : [https://leechungpa.netlify.app/](https://leechungpa.netlify.app/)
-
-1. Blog for Books : [https://leechungpa.blog.me/](https://leechungpa.blog.me/)
-
 1. Documentary 
 
+    1. Netlify Blog Test : https://leechungpa.netlify.app/
     1. Statistics and Data Science : [https://leechungpa.github.io/statistics/](https://leechungpa.github.io/statistics/)
-    
     1. Machine Learning : [https://leechungpa.github.io/machine-learning/](https://leechungpa.github.io/machine-learning/)
+    1. Blog for Books : [https://leechungpa.blog.me/](https://leechungpa.blog.me/)
+
     
 1. ETC : Just for Study
 
-    1. [Python](https://github.com/leechungpa/python-study)
-    
+    1. [Python](https://github.com/leechungpa/python-study)    
     1. [R (private)](https://github.com/leechungpa/yonsei)
-    
     1. [C (cs50)](https://github.com/leechungpa/cs50")
 
 
+
+
+    
 <br>
 
 
