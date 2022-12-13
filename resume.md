@@ -9,8 +9,8 @@ nav_order: 1
 ![](https://avatars0.githubusercontent.com/u/57704527?s=400&u=d22f022e58743ae523b68d3cd3423278f4c5b317&v=4)
 - 이청파 Lee Chungpa
 - E-mail : leechungpa@gmail.com
-- Advanced skills : R(tidyverse), Python, Git
-- developing Skills : SQL, POSIX, C
+- Advanced skills : Python, Julia, R(tidyverse), Git, Docker
+- developing Skills : SQL, Linux, Cpp
  
 ### Education 
 
@@ -21,8 +21,9 @@ nav_order: 1
 ### Career
 
 - 연세대학교 학보사 연세춘추 116기 사진부 기자 (2015.09 ~ 2016.12)
-- 육군 25사단 병장 (2017.02 ~ 2018.11)
+- 대한민국 육군 병장 만기전역 (2017.02 ~ 2018.11)
 - 연세대학교 국제캠퍼스 윤동주 하우스 RA (2019.03 ~ 2019.12)
+- GRETA Inc. DM (2022.05 ~ )
 
 
 <br>
@@ -85,12 +86,5 @@ Study of Optimization Theory with respect to Convex Optimization. There are [cod
 `Python`, `EDA` [Github Link](https://github.com/leechungpa/uc-eda)
 
 DataScienceLab EDA project(2020.08.13) with Data of A Countrywide Traffic Accident Dataset(2016 - 2020).
-
-
-<!--
-https://github.com/leechungpa/seoul-disability
-https://github.com/leechungpa/trading
--->
-
 
 
