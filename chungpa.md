@@ -1,37 +1,65 @@
 --- 
-title : Resume
+title : Chungpa
 has_children: false
 nav_order: 1
 ---  
 
 
-# 💻 About me
+# Chungpa Lee (이청파)
 ![](https://avatars0.githubusercontent.com/u/57704527?s=400&u=d22f022e58743ae523b68d3cd3423278f4c5b317&v=4)
-- 이청파 Lee Chungpa
 - E-mail : leechungpa@gmail.com
-- Advanced skills : Python, Julia, R(tidyverse), Git, Docker
-- developing Skills : SQL, Linux, Cpp
- 
-### Education 
 
-- 인천산곡고등학교 (이공계열)
-- 연세대학교 상경대학 응용통계학과 (부전공 경제학)
-- 연세대학교 일반대학원 통계데이터사이언스
 
-### Career
+### Biography
+
+Chungpa Lee is a Ph.D. student in the Department of Statistics and Data Science at Yonsei University, under the supervision of Professors Joseph H.T. Kim and Jy-yong Sohn.
+
+- Ph.D. Student in Statistics and Data Science, Yonsei University, Seoul, Republic of Korea (Mar 2021 - Present)
+- B.A. in Applied Statistics, Yonsei University, Seoul, Republic of Korea, 2021
+
+### Research Topics
+
+- Representation Learning
+  - Contrastive Learning
+
+- GLM
+  - Poisson regression
+  
+- Synthetic data Generation
+
+
+### Publications
+
+Conferences
+
+- Analysis of Using Sigmoid Loss for Contrastive Learning [[arxiv](https://arxiv.org/abs/2402.12613)]
+  - **C. Lee**, J. Chang and J. Sohn
+  - AISTATS 2024
+
+
+
+### Work Experience
+
+- Data Science Manager, GRETA Inc. (2022.05 ~ )
+
+### Personal Experience
 
 - 연세대학교 학보사 연세춘추 116기 사진부 기자 (2015.09 ~ 2016.12)
 - 대한민국 육군 병장 만기전역 (2017.02 ~ 2018.11)
 - 연세대학교 국제캠퍼스 윤동주 하우스 RA (2019.03 ~ 2019.12)
-- GRETA Inc. DM (2022.05 ~ )
 
+### Scholarships
+
+- [YongWoon Scholarship](https://www.yongwoon.co.kr/) (Mar 2021 - Feb 2023)
 
 <br>
 <br>
 <br>
 
-# 📝 Project for Study
 
+<details>
+<summary>📝 Undergraduate Projects</summary>
+<div markdown="1">
 
 ### _뉴노멀 시대의 지역화폐 제안 : 지역별 업종 맞춤형 지역화폐_
 
@@ -88,3 +116,6 @@ Study of Optimization Theory with respect to Convex Optimization. There are [cod
 DataScienceLab EDA project(2020.08.13) with Data of A Countrywide Traffic Accident Dataset(2016 - 2020).
 
 
+
+</div>
+</details>
